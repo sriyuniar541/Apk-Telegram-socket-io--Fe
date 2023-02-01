@@ -20,8 +20,6 @@
 
 ## About The Project
 
-Application for chat [demo flyer](-------link demo disini------)
-
 ### Built With
 
 - [Node JS](https://nodejs.org/en/docs/)
@@ -49,11 +47,8 @@ git clone [https://github.com/sriyuniar541/Apk-Telegram-socket-io--Fe]
 npm install
 ```
 
-3. Add .env file at root folder project, and add following
+3. Add .env file at root folder project
 
-```bash
-================lingk env backend disini========= // or use your own
-```
 
 ## Screenshot
 
@@ -72,8 +67,6 @@ npm install
 
 ## Related Project
 
-- [`Telegram Demo`](====link deploy here===)
-- [`Telegram REST API`](===link deploy be =====)
 - [`Peworld REST API Repository`](https://github.com/sriyuniar541/Apk-Belanja-Be)
 
 ## Contact
