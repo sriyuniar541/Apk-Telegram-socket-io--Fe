@@ -67,7 +67,7 @@ npm install
 
 ## Related Project
 
-- [`Peworld REST API Repository`](https://github.com/sriyuniar541/Apk-Belanja-Be)
+- [`Peworld REST API Repository`](https://github.com/sriyuniar541/Apk-Telegram-socket-io-Be)
 
 ## Contact
   - Sri Yuniar [@sriyuniar541](https://github.com/sriyuniar541)
